@@ -13,7 +13,7 @@ order: 4
 
 ## Education
 
-**China University Of Geosciences**  2022.09-2026.07
+**China University Of Geosciences(Wuhan)**  2022.09-2026.07
 
 - Bachelor Degree
 - Software Enginering
