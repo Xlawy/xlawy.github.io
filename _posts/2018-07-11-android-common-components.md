@@ -5,4 +5,17 @@ categories: [Android]
 tags: [android, gui]
 ---
 
-寻找bug
+1. 在设置中修改案件重复和重复前延迟
+2. 想要更快?
+
+```shell
+# KeyRepeat
+# 0/1/2 -> SLOWER
+# 1 RECOMMENDED
+defaults write NSGlobalDomain KeyRepeat -int 1
+
+# InitialKeyRepeat
+# 15 10 -> FASTER
+# 15 RECOMMENDED
+defaults write NSGlobalDomain InitialKeyRepeat -int 15
+```
