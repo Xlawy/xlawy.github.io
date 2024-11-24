@@ -1,8 +1,9 @@
 ---
-title: 【macOS实用教程】让Finder也可以通过CMDQ来关闭
+title: 【macOS实用教程】让Finder也可以通过CMD+Q快捷键来关闭
 date: 2024-11-25 02:47 +0800
 categories: [macOS]
 tags: [macOS, 技巧]
+description: 让Finder也可以被CMD+Q来关闭。
 ---
 
 ```shell
