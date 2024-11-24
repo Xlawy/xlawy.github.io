@@ -1,8 +1,8 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+title: 123
+date: 2024-11-25 01:43:25 +0800
+categories: [12, 23]
+tags: [123]     # TAG names should always be lowercase
 ---
 
 # 第一篇博客
