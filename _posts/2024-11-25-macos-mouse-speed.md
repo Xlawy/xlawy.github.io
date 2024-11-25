@@ -1,5 +1,5 @@
 ---
-title: 【macOS实用教程】加快macOS光标按键移动速度
+title: 「macOS技巧」加快macOS光标按键移动速度
 date: 2024-11-25 02:47 +0800
 categories: [macOS]
 tags: [macOS, 技巧]
