@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zhang Jinhan # the main title
+title: 张 瑾涵 # the main title
 
-tagline: Stay hungry, Stay foolish. # it will display as the subtitle
+tagline: 求知若饥，虚心若愚。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal blog site of Zhang Jinhan.
