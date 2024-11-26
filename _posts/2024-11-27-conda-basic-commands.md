@@ -43,7 +43,7 @@ conda activate [env_name]
 
 ## 关闭虚拟环境
 
-```shel
+```shell
 conda deactivate
 ```
 
@@ -93,12 +93,4 @@ conda search [package_name]
 
 
 
-
-
-
-
-
-https://blog.csdn.net/be_racle/article/details/124896246
-
-![image-20241127001136098](https://cdn.jsdelivr.net/gh/Xlawy/ImageHosting/img/image-20241127001136098.png)
 
