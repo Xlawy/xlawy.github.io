@@ -6,9 +6,6 @@ tags: [算法]
 description: 123
 ---
 
-* awsl 
-{:toc}
-
 
 https://www.acwing.com/problem/content/897/
 
