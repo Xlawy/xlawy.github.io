@@ -3,7 +3,7 @@ title: 1018-最低通行费（线性DP）
 date: 2025-03-25 02:47 +0800
 categories: [代码提高课笔记]
 tags: [算法]
-description: 123
+description: 三角形模型：最低通行费
 ---
 
 https://www.acwing.com/problem/content/1020/

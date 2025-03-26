@@ -1,9 +1,9 @@
 ---
-title: 摘花生
+title: 1. 摘花生
 date: 2025-03-25 02:47 +0800
 categories: [代码提高课笔记, 最长上升子序列]
 tags: [算法]
-description: 123
+description: 最长上升子序列：摘花生
 ---
 
 https://www.acwing.com/problem/content/1017/
