@@ -3,7 +3,7 @@ title: tmux常用命令
 date: 2025-03-26 02:47 +0800
 categories: [开发工具]
 tags: [工具]
-description: tmux常用的命令。
+description: tmux常用的命令
 ---
 
 以下把control+b简称为cb

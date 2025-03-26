@@ -3,7 +3,7 @@ title: 「macOS技巧」加快macOS光标按键移动速度
 date: 2024-11-25 02:47 +0800
 categories: [macOS]
 tags: [macOS, 技巧]
-description: 加快macOS光标按键移动速度。
+description: 加快macOS光标按键移动速度
 ---
 1. 在设置中修改案件重复和重复前延迟
 2. 想要更快?
