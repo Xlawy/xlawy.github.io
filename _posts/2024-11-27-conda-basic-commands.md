@@ -1,7 +1,7 @@
 ---
 title: Conda基础命令
 date: 2024-11-27 03:10 +0800
-categories: [Conda]
+categories: [开发工具]
 tags: [Conda, Commands]
 description: Conda基础命令
 ---
